@@ -28,4 +28,5 @@ App made with Java following Model-View-Controller Model.
 ## Running the App
 
 javac *.java
+
 java main
