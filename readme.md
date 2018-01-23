@@ -1,10 +1,8 @@
-To run:
-make run
 
 
+## Draw a Doodle!
 
-What works:
-
+This app allows you to do the following:
 
 * Drawing Doodles
 * Changing Color and stroke size
@@ -21,8 +19,13 @@ So if you want to load a binary file, ignore that option, just make sure it says
 * You can exit
 
 
-Not Complete:
-* Playback Control: Not working as expected. Will fix at a later date. 
-* Play Button: Not Implemented
+![doodle](https://i.imgur.com/mKUa1wf.png "")
 
-Used MVC model.
+## Technology
+
+App made with Java following Model-View-Controller Model.
+
+## Running the App
+
+javac *.java
+java main
